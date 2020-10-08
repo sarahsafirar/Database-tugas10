@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Mahasiswa</string>
+    <string name="masukkan_nama">Masukkan Nama</string>
+    <string name="tambahkan">Tambahkan</string>
+    <string name="nama">nama</string>
+    <string name="tampilkan">Tampilkan</string>
+</resources>
